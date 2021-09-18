@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShivamBunge
-- 👀 I’m interested in Python, Android development
-- 🌱 I’m currently learning android development
+- 👀 I’m interested in Python, Backend development 
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on backend development hopefully using python
 - 📫 How to reach me shivambunge9898@gmail.com
 
